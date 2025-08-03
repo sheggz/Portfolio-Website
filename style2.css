@@ -120,7 +120,7 @@ ul {
 .nav-list a {
     color: var(--dark-color);
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 1.3rem;
     padding: 0.5rem;
     transition: color 0.3s ease;
 }
@@ -178,8 +178,8 @@ ul {
 
 .about-text p {
     margin-bottom: 1rem;
-    font-size: 1.1rem;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.9rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif 
 }
 
 /* Work Section */
